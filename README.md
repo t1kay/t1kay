@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🎓 Computer Science student<br>- ☁️ Interested in Cloud Computing & Networking<br>- 🔐 Exploring Cybersecurity <br>- 🐳 Learning Docker, Kubernetes, Linux, and CI/CD<br>- 🚀 Always building and learning
+- 🎓 Computer Science student<br> ☁️ Interested in Cloud Computing & Networking<br> 🔐 Exploring Cybersecurity <br> 🐳 Learning Docker, Kubernetes, Linux, and CI/CD<br> 🚀 Always building and learning
 
 
 ## 🌐 Socials:
